@@ -26,7 +26,7 @@ function headerShadow(){
 
 
 var typingEffect = new Typed(".typedText",{
-    strings : ["Web Designer", "Softwera Developer"],
+    strings : ["Web Designer", "Front-End Developer","UI/UX Designer"],
     loop : true,
     typeSpeed : 100,
     backSpeed : 80,
